@@ -10,6 +10,14 @@ Retail Management System with microservices
 - Product
 - Payment
 
+## Stacks
+
+- Angular (v.13)
+- Nest.js
+- Spring Boot
+- Docker
+- Kubernetes
+
 ## Author
 
 [@Luckminer](https://github.com/luckminer)
