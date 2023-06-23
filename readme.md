@@ -2,6 +2,11 @@
 
 Retail Management System with microservices
 
+## Introduction
+
+We're building a world full of easygoing and comfortness.
+This super service will let customers buy products by their needs anywhere anytime they want.
+
 ## Services
 
 - User Interface
