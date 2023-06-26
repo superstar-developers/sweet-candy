@@ -16,10 +16,6 @@ builder.Services
     );
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 
-// builder.Services.AddDbContext<ProductItemContext>(opt=>
-//     opt.UseInMemoryDatabase("Products")
-// );
-
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
