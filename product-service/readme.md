@@ -2,5 +2,5 @@
 
 ## Stack
 
-- Nest.js
+- ASP.NET
 - MongoDB
