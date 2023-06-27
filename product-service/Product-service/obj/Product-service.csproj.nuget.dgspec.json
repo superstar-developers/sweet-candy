@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Knight\\Documents\\Work\\sweet-candy\\product-service\\product-service\\Product-service.csproj": {}
+    "C:\\Users\\Knight\\Documents\\Work\\sweet-candy\\product-service\\Product-service\\Product-service.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Knight\\Documents\\Work\\sweet-candy\\product-service\\product-service\\Product-service.csproj": {
+    "C:\\Users\\Knight\\Documents\\Work\\sweet-candy\\product-service\\Product-service\\Product-service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Knight\\Documents\\Work\\sweet-candy\\product-service\\product-service\\Product-service.csproj",
+        "projectUniqueName": "C:\\Users\\Knight\\Documents\\Work\\sweet-candy\\product-service\\Product-service\\Product-service.csproj",
         "projectName": "Product-service",
-        "projectPath": "C:\\Users\\Knight\\Documents\\Work\\sweet-candy\\product-service\\product-service\\Product-service.csproj",
+        "projectPath": "C:\\Users\\Knight\\Documents\\Work\\sweet-candy\\product-service\\Product-service\\Product-service.csproj",
         "packagesPath": "C:\\Users\\Knight\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Knight\\Documents\\Work\\sweet-candy\\product-service\\product-service\\obj\\",
+        "outputPath": "C:\\Users\\Knight\\Documents\\Work\\sweet-candy\\product-service\\Product-service\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Knight\\AppData\\Roaming\\NuGet\\NuGet.Config"

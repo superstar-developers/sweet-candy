@@ -277,3 +277,16 @@ C:\Users\Knight\Documents\Work\sweet-candy\product-service\product-service\obj\D
 C:\Users\Knight\Documents\Work\sweet-candy\product-service\product-service\obj\Debug\net7.0\Product-service.pdb
 C:\Users\Knight\Documents\Work\sweet-candy\product-service\product-service\obj\Debug\net7.0\Product-service.genruntimeconfig.cache
 C:\Users\Knight\Documents\Work\sweet-candy\product-service\product-service\obj\Debug\net7.0\ref\Product-service.dll
+C:\Users\Knight\Documents\Work\sweet-candy\product-service\Product-service\bin\Debug\net7.0\AWSSDK.Core.dll
+C:\Users\Knight\Documents\Work\sweet-candy\product-service\Product-service\bin\Debug\net7.0\AWSSDK.SecurityToken.dll
+C:\Users\Knight\Documents\Work\sweet-candy\product-service\Product-service\bin\Debug\net7.0\DnsClient.dll
+C:\Users\Knight\Documents\Work\sweet-candy\product-service\Product-service\bin\Debug\net7.0\MongoDB.Bson.dll
+C:\Users\Knight\Documents\Work\sweet-candy\product-service\Product-service\bin\Debug\net7.0\MongoDB.Driver.dll
+C:\Users\Knight\Documents\Work\sweet-candy\product-service\Product-service\bin\Debug\net7.0\MongoDB.Driver.Core.dll
+C:\Users\Knight\Documents\Work\sweet-candy\product-service\Product-service\bin\Debug\net7.0\MongoDB.Libmongocrypt.dll
+C:\Users\Knight\Documents\Work\sweet-candy\product-service\Product-service\bin\Debug\net7.0\SharpCompress.dll
+C:\Users\Knight\Documents\Work\sweet-candy\product-service\Product-service\bin\Debug\net7.0\Snappier.dll
+C:\Users\Knight\Documents\Work\sweet-candy\product-service\Product-service\bin\Debug\net7.0\ZstdSharp.dll
+C:\Users\Knight\Documents\Work\sweet-candy\product-service\Product-service\bin\Debug\net7.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\Knight\Documents\Work\sweet-candy\product-service\Product-service\bin\Debug\net7.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\Knight\Documents\Work\sweet-candy\product-service\Product-service\bin\Debug\net7.0\runtimes\win\native\mongocrypt.dll

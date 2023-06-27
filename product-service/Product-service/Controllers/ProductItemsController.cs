@@ -11,7 +11,7 @@ using Product_service.Services;
 
 namespace Product_service.Controllers
 {
-    [Route("api/[ProductItems]")]
+    [Route("api/[controller]")]
     [ApiController]
     public class ProductItemsController : ControllerBase
     {

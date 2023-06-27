@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "csn4wZvPQEZ8nrZcwzQ4zaYs6wxDVdU2buHp47XQCpIGMgF+f5M2hPiDgzcnjgjPfF4+PiE3B1q6EMEPYUALrA==",
+  "dgSpecHash": "iqkTstOlHGlAcfb6aNIEsGcSIcVggSeMX1x6BJrL3+r+bdxdS4MkEQEo3qiUMarUFRMlgfPe4B+riN+iyiWwWQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Knight\\Documents\\Work\\sweet-candy\\product-service\\product-service\\Product-service.csproj",
+  "projectFilePath": "C:\\Users\\Knight\\Documents\\Work\\sweet-candy\\product-service\\Product-service\\Product-service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Knight\\.nuget\\packages\\awssdk.core\\3.7.100.14\\awssdk.core.3.7.100.14.nupkg.sha512",
     "C:\\Users\\Knight\\.nuget\\packages\\awssdk.securitytoken\\3.7.100.14\\awssdk.securitytoken.3.7.100.14.nupkg.sha512",
